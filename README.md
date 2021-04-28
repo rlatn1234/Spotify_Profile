@@ -2,7 +2,7 @@
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://spotify-profile-5buviahnq-rlatn1234.vercel.app/api/spotify)](https://open.spotify.com/user/rlatn0123)
+&nbsp; <br> [![Spotify](http://disapi.rlatn.kr:1234/api/spotify)](https://open.spotify.com/user/rlatn0123)
 
   </td>
   <td width="50%">
